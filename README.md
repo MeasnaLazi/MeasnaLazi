@@ -8,7 +8,7 @@ I love start-ups, love seeing new ideas and amazing products built, love being a
 -  iOS, Swift, UIKit, SwiftUI, Objective-C
 - 🤖 Android, Kotlin, Java
 - 📱 iOS & Android, Dart, Flutter
-- 🌐 Javascript, Typescript, PHP, NodeJS, ExpressJS, NextJS, ReactJS, VueJS, Laravel
+- 🌐 Javascript, Typescript, PHP, HTML, CSS, NodeJS, ExpressJS, NextJS, ReactJS, VueJS, Laravel
 - 🧮 Git, Github, Git Flow
 - 💻 Java(SE, Selenium), Apex
 - 👨‍💻 MVC, MVVM, SOLID
