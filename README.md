@@ -10,7 +10,7 @@ I love start-ups, love seeing new ideas and amazing products built, love being a
 - 📱 iOS & Android, Dart, Flutter
 - 🌐 Javascript, Typescript, PHP, HTML, CSS, NodeJS, ExpressJS, NextJS, ReactJS, VueJS, Laravel
 - 🧮 Git, Github, Git Flow
-- 💻 Java(SE, Selenium), Apex
+- 💻 Java SE, Java Selenium, Java Spring, Apex Salesforce
 - 👨‍💻 MVC, MVVM, SOLID
 
 
