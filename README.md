@@ -1,7 +1,7 @@
 ### Hi, I'm Measna. 👋
 
-I love coding and logic. I am a software engineer. I love building products that solve real-world problems. <br>
-I love start-up, love seeing new ideas and amazing products built, love being a part of compnany growth, love being involved in Entrepreneurship.
+I love logic and coding. I am a software engineer. I love building products that solve real-world problems. <br>
+I love start-ups, love seeing new ideas and amazing products built, love being a part of company growth, love being involved in Entrepreneurship.
 
 ✨ Skills and Experiences ✨
 
