@@ -11,7 +11,7 @@ I love start-ups, love seeing new ideas and amazing products built, love being a
 - 🌐 Javascript, Typescript, PHP, NodeJS, ExpressJS, NextJS, ReactJS, VueJS, Laravel
 - 🧮 Git, Github, Git Flow
 - 💻 Java(SE, Selenium), Apex
-- 👨‍💻 MVC, MVVM
+- 👨‍💻 MVC, MVVM, SOLID
 
 
 
