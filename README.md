@@ -11,7 +11,7 @@ I love start-ups, love seeing new ideas and amazing products built, love being a
 - 🌐 Javascript, Typescript, PHP, HTML, CSS, NodeJS, ExpressJS, NestJS, NextJS, ReactJS, VueJS, Laravel
 - 🧮 Git, Github, Gitlab, Bitbucket, Git Flow
 - 💻 Java SE, Java Selenium, Java Spring, Apex Salesforce
-- 👨‍💻 MVC, MVVM, SOLID, Layers, Modular
+- 👨‍💻 MVC, MVVM, SOLID, Layers, Modulars
 - 🐳 Docker, AWS
 
 
